@@ -8,7 +8,7 @@ def routeMapper(coords_0, coords_1, transitMode):
     # Init client
 
 
-    gmaps = googlemaps.Client(key="AIzaSyCmw4APSRFeFKn0psxxKUBfwE0Nwhfnodw")
+    gmaps = googlemaps.Client(key=)
     # Request directions
     now = datetime.now()
 
